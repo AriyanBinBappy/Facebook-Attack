@@ -1,20 +1,10 @@
-  ___       _          ____             _       ____      _               
- / _ \  ___| |_ ___   |  _ \  __ _ _ __| | __  / ___|   _| |__   ___ _ __ 
-| | | |/ __| __/ _ \  | | | |/ _` | '__| |/ / | |  | | | | '_ \ / _ \ '__|
-| |_| | (__| || (_) | | |_| | (_| | |  |   <  | |__| |_| | |_) |  __/ |   
- \___/ \___|\__\___/  |____/ \__,_|_|  |_|\_\  \____\__, |_.__/ \___|_|   
-                                                    |___/                 
- ____                            _ 
-/ ___|  __ _ _   _  __ _ _ __ __| |
-\___ \ / _` | | | |/ _` | '__/ _` |
- ___) | (_| | |_| | (_| | | | (_| |
-|____/ \__, |\__,_|\__,_|_|  \__,_|
-          |_|                      
+👤 Author: Ariyan Bin Bappy
 
-🛠️  Octo Dark Cyber Squad Facebook Bruteforce Tool  
-👤 Author: Ariyan Bin Bappy  
-☠️  Group: Octo Dark Cyber Squad  
-⚠️  For Authorized Testing Only  
+☠️ Team: Octo Dark Cyber Squad
+
+🌐 Group Focus: Ethical Hacking, Penetration Testing, Cyber Defense
+
+
 
 # 🛠️ Facebook BruteForce Tool
 
